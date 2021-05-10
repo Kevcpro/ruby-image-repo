@@ -8,3 +8,6 @@ Starting the application:
 1. For Windows use the command: ruby bin/rails server, Otherwise use: bin/rails server
 
 2. In order to test the functionality of the app you can hit the endpoints for creating and deleting images
+
+Previous Challenge in JS:
+https://github.com/Kevcpro/image-repo-shopify-v2
